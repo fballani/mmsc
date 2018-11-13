@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "gray")
+importFrom("graphics", "axis", "contour", "layout", "lines", "par", "plot", "plot.new", "plot.window", "points", "rect")
+importFrom("stats", "na.omit", "var")
